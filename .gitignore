@@ -3,6 +3,7 @@
 # ...except these
 !/.gitignore
 !/.zshrc
+!/.qylock
 !/.config/
 # inside .config, ignore everything...
 /.config/*
