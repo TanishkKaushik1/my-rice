@@ -1,0 +1,5 @@
+singleton SystemMonitor 1.0 SystemMonitor.qml
+singleton ProcessService 1.0 ProcessService.qml
+singleton ColorService 1.0 ColorService.qml
+singleton StartupService 1.0 StartupService.qml
+singleton StorageService 1.0 StorageService.qml

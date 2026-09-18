@@ -1,0 +1,24 @@
+[window]
+# Adjust opacity between 0.0 (fully transparent) and 1.0 (fully opaque)
+opacity = 0.25
+blur = true
+padding = { x = 12, y = 12 }
+
+[general]
+import = [
+    "~/.config/rice/alacritty/colors.toml"
+]
+
+[terminal.shell]
+program = "/bin/zsh"
+args = ["--login"]
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+
+[cursor]
+style = { shape = "Beam", blinking = "On" }
+
+[colors.cursor]
+cursor = "#ffb4ab"
+text   = "#181216"

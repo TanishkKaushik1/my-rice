@@ -1,0 +1,12 @@
+{
+  "colors": {
+    "surface": "#151217",
+    "on_surface": "#fbf2fa",
+    "primary": "#dcb9f8",
+    "secondary": "#d1c1d9",
+    "tertiary": "#f3b7bc",
+    "error": "#ffb4ab",
+    "surface_container": "#272329",
+    "primary_container": "#8768a1"
+  }
+}

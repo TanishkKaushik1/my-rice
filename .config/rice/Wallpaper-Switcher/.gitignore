@@ -1,0 +1,5 @@
+# Secrets — never commit real keys
+.env
+
+# Per-machine generated state — not portable, regenerated on first run
+last_wallpaper.json

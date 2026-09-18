@@ -1,0 +1,12 @@
+{
+  "colors": {
+    "surface": "{{colors.surface.dark.hex}}",
+    "on_surface": "{{colors.on_surface.dark.hex}}",
+    "primary": "{{colors.primary.dark.hex}}",
+    "secondary": "{{colors.secondary.dark.hex}}",
+    "tertiary": "{{colors.tertiary.dark.hex}}",
+    "error": "{{colors.error.dark.hex}}",
+    "surface_container": "{{colors.surface_container.dark.hex}}",
+    "primary_container": "{{colors.primary_container.dark.hex}}"
+  }
+}

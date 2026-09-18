@@ -1,0 +1,17 @@
+# ignore everything at top level...
+/*
+# ...except these
+!/.gitignore
+!/alacritty/
+!/app-launcher/
+!/bar/
+!/fastfetch/
+!/hyprlock/
+!/kitty/
+!/mako/
+!/matugen/
+!/peachy/
+!/qs-visualizer/
+!/scripts/
+!/task-manager/
+!/Wallpaper-Switcher/

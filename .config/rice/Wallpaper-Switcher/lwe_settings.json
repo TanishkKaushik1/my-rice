@@ -1,0 +1,46 @@
+{
+  "volume": 100,
+  "mute": true,
+  "automute": true,
+  "scaling": "fill",
+  "fps": 30,
+  "screen": "eDP-1",
+  "disableMouse": false,
+  "disableParallax": false,
+  "pauseOnFullscreen": true,
+  "pauseOnlyActive": true,
+  "ignoreAppIds": "",
+  "wallpapers": [],
+  "currentIndex": 0,
+  "customProperties": {
+    "1797723625": {
+      "newproperty": "0.5"
+    },
+    "2179185481": {
+      "x_ray_version": 1,
+      "sfw_version": 1,
+      "nsfw_version": 0
+    },
+    "2193299329": {
+      "nsfwversion": 0,
+      "nsfwversion2": 0,
+      "xrayversion": 1,
+      "sfwversion1": 0
+    },
+    "3460727391": {
+      "newproperty": "0.5"
+    },
+    "3747616914": {
+      "alternative": "1"
+    },
+    "3790573811": {
+      "alternative": "1",
+      "schemecolor": "0.819610 0.623530 0.568630",
+      "xray": 1
+    },
+    "3791076418": {
+      "alternative": "1",
+      "schemecolor": "0.19608 0.50196 0.58039"
+    }
+  }
+}

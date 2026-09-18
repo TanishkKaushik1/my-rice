@@ -1,0 +1,30 @@
+# Global Styling
+font= Inter Nerd Font 11
+background-color=#151217
+text-color=#dcb9f8
+border-color=#dcb9f8
+border-size=2
+border-radius=12
+width=340
+margin=10
+padding=10
+
+# Global Timeout (in milliseconds)
+default-timeout=5000
+
+# Urgency Levels
+[urgency=low]
+border-color=#f3b7bc
+default-timeout=2000
+
+[urgency=critical]
+border-color=#ffb4ab
+default-timeout=0
+
+default-timeout=3000
+
+[urgency=low]
+default-timeout=2000
+
+[urgency=critical]
+default-timeout=0

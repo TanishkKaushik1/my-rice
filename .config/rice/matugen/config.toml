@@ -1,0 +1,23 @@
+[config]
+version_check = false
+fallback_color = "#ff3a3a"
+prefer = "saturation"
+caching = false
+contrast = 0.3
+
+[templates.quickshell_colors]
+input_path = "~/.config/rice/matugen/templates/colors.json"
+output_path = "~/.config/rice/matugen/colors.json"
+
+[templates.alacritty]
+input_path = "~/.config/rice/matugen/templates/alacritty-colors.toml"
+output_path = "~/.config/rice/alacritty/colors.toml"
+
+[templates.mako]
+input_path = "~/.config/rice/matugen/templates/mako.conf"
+output_path = "~/.config/rice/mako/config"
+post_hook = "makoctl reload"
+
+[templates.kitty]
+input_path = "~/.config/rice/matugen/templates/kitty-colors.conf"
+output_path = "~/.config/rice/kitty/colors.conf"

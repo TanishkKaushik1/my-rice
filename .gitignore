@@ -1,0 +1,11 @@
+# ignore everything in $HOME...
+/*
+# ...except these
+!/.gitignore
+!/.zshrc
+!/.config/
+# inside .config, ignore everything...
+/.config/*
+# ...except these
+!/.config/hypr/
+!/.config/rice/
